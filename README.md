@@ -32,15 +32,11 @@
 
 # 📖 [Hello-React-Rails] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Hello-React-Rails]** is a project with purpose of practice connecting FrontEnd with BackEnd trough a webpack configuration
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <ul>
@@ -79,8 +75,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -176,8 +170,6 @@ If you like this project please give us a star or send us a message to our socia
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the Microverse team, Code Reviewers and team.
 
