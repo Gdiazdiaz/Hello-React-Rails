@@ -95,57 +95,37 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd Hello-React-Rails
+  git clone https://github.com/Gdiazdiaz/Hello-React-Rails.git
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+  cd Hello-React-Rails
+  bundle install
+  yarn install
+  npm install
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+  ./bin/dev
 
-```sh
-  rails server
-```
---->
+  or if you are a windos user and this command doesn't work for you,
+  try running in two bash terminal at the same time
+  web: bin/rails server
+  js: yarn buil --watch
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+"http://127.0.0.1:3000/" for the React Frontend
+"http://127.0.0.1:3000/api/grettings" for the API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,17 +135,10 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Glenda Diaz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Gdiazdiaz](https://github.com/Gdiazdiaz)
+- LinkedIn: [Glenda Diaz](www.linkedin.com/in/glendadiazz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,9 +148,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add_profile]**
+- [ ] **[Navigation_method]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +169,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please give us a star or send us a message to our social networks(you can find them in authors)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,23 +179,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank the Microverse team, Code Reviewers and team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +188,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
